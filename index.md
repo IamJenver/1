@@ -24,6 +24,15 @@
       <p>I am learning english and web creating</p>
       <h3>I can create a site</h3>
       <p>I can do anything</p>
+	    <div class="skills">
+        <h3>Мои навыки</h3>
+        <dl class="skills-list">
+          <dt>HTML</dt>
+          <dd><div>60%</div></dd>
+          <dt>CSS</dt>
+          <dd><div>40%</div></dd>
+        </dl>
+      </div>
     </section>
 
     <section class="portfolio">
